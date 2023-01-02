@@ -44,8 +44,7 @@
 ### 开发中
 |#|Project|Description|KeyWord|Language|Publish|
 |:-|:-|:-|:-|:-|:-|
-|1|-|-|-|-|-|
-
+|1|[一问event](https://github.com/Undertone0809/weall-hub/issues/1)|一个面向大学生的赛事组队交流分享平台|SpringBoot,Uniapp|Java,Vue|2023-01-02|
 
 
 ## 如何成为本项目的贡献者
