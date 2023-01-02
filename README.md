@@ -21,12 +21,12 @@
 - **想要参与开发一些开源项目**：
   - 你可以在[discussion](https://github.com/Undertone0809/weall-hub/discussions)和[Project](#project)中寻找自己感兴趣的项目，其中包括正在筹建中的项目或已经在开发中的项目
 - **想要寻找小伙伴一起开发一个新项目**：
-  - 你可以在discussion中提出自己的想法，其中包括项目的想法、预期的结果、需要的技术栈、需要完成的工作等内容
+  - 你可以在[New Idea](https://github.com/Undertone0809/weall-hub/discussions/categories/new-idea)中提出自己的想法，其中包括项目的想法、预期的结果、需要的技术栈、需要完成的工作等内容
   - 如果你仅仅只是有一个想法，你也可以在这里寻找志同道合的小伙伴
   - 在discussion中留下自己的联系方式（或者群聊）
   - 你可以选择提交一个pr添加到readme中
 - **想要寻找小伙伴一起开发完善一个已有的项目**：
-  - 你可以在discussion中介绍自己的项目，其中包括项目介绍、推荐原因、需要的技术栈、需要完成的工作等内容
+  - 你可以在[项目汇总](https://github.com/Undertone0809/weall-hub/discussions/categories/%E9%A1%B9%E7%9B%AE%E6%B1%87%E6%80%BB)中介绍自己的项目，其中包括项目介绍、推荐原因、需要的技术栈、需要完成的工作等内容
   - 在discussion中留下自己的联系方式（或者群聊）和项目地址
   - 你可以选择提交一个pr添加到readme中
 
@@ -44,7 +44,7 @@
 ### 开发中
 |#|Project|Description|KeyWord|Language|Publish|
 |:-|:-|:-|:-|:-|:-|
-|1|[一问event](https://github.com/Undertone0809/weall-hub/issues/1)|一个面向大学生的赛事组队交流分享平台|SpringBoot,Uniapp|Java,Vue|2023-01-02|
+|1|[一问event](https://github.com/Undertone0809/weall-hub/discussions/3)|一个面向大学生的赛事组队交流分享平台|SpringBoot,Uniapp|Java,Vue|2023-01-02|
 
 
 ## 如何成为本项目的贡献者
