@@ -50,6 +50,7 @@
 |:-|:-|:-|:-|:-|:-|
 |1|[一问event](https://github.com/Undertone0809/weall-hub/discussions/3)|一个面向大学生的赛事组队交流分享平台|SpringBoot,Uniapp|Java,Vue|2023-01-02|
 |2|[Joyqueue](https://github.com/Undertone0809/weall-hub/discussions/5)|一款云原生、高性能的企业级消息队列|Raft,Kafka,Mqtt|Java|2023-01-02|
+|3|[Forest](https://github.com/Undertone0809/weall-hub/discussions/8)|一个现代化的知识社区|SpringBoot,Vue|Java,Vue|2023-01-02|
 
 
 ## 如何成为本项目的贡献者
