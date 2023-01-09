@@ -66,5 +66,5 @@
 
 - 本项目交流群(链接过期了可以提醒一下作者)
 <p align="center">
-    <img src="https://zeeland-bucket.oss-cn-beijing.aliyuncs.com/typora_img/20230102183238.png"/>
+    <img src="https://zeeland-bucket.oss-cn-beijing.aliyuncs.com/typora_img/20230110015901.png"/>
 </p>
